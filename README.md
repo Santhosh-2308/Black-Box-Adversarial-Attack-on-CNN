@@ -1,6 +1,6 @@
 # Problem 2 - Black-Box Adversarial Attack on a CNN
 
-**Team:** Team Friday  
+**Team:** Friday  
 **Members:** Santhosh Kandagatla, Bhargav Reddymalla  
 **Affiliation:** Dept. of CSE (Cybersecurity), Geethanjali College of Engineering and Technology, Hyderabad, India  
 **Repository:** https://github.com/Santhosh-2308/Black-Box-Adversarial-Attack-on-CNN
@@ -35,7 +35,7 @@ Success was checked on the PNGs reloaded from disk, with the same `transform` as
 README.md                    this file
 report.pdf                   short report describing the method (IEEE two-column format)
 BlackBox.ipynb               complete notebook with the final attack parameters
-BlackBox.pdf            printout of the full Colab run of that notebook
+BlackBox.pdf                 printout of the full Colab run of that notebook
 adv_images/                  1000 adversarial PNGs, named <class>_<index>_adv.png
 ```
 
